@@ -46,7 +46,7 @@ class MaxValueServiceTest {
     }
 
     @Nested
-    @DisplayName("Testing method for first max value")
+    @DisplayName("Testing method for second max value")
     class FindSecondMaxValueTest {
 
         @Test
